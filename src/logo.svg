@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+    <title>pd-logo@1.5x</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard">
+            <g id="Group-3" transform="translate(29.000000, 30.000000)">
+                <g id="Group-2">
+                    <circle id="Oval" fill="#EEEA00" cx="16.5" cy="77" r="16.5"></circle>
+                    <polyline id="Path-6" fill="#191970" points="17 0.5 169 50.9795918 169 102.5 17 52.5408163"></polyline>
+                    <polygon id="Path-7" fill="#191970" points="17 101.733333 17 199.266667 70 217 70 84"></polygon>
+                    <polyline id="Path-6" fill="#4A90E2" transform="translate(93.000000, 101.500000) scale(1, -1) rotate(180.000000) translate(-93.000000, -101.500000) " points="17 50.5 169 100.979592 169 152.5 17 102.540816"></polyline>
+                </g>
+                <g id="Group" transform="translate(70.000000, 21.000000)">
+                    <polyline id="Path-6" fill="#BAB319" transform="translate(76.000000, 165.000000) scale(-1, -1) translate(-76.000000, -165.000000) " points="0 114 152 164.479592 152 216 0 166.040816"></polyline>
+                    <polygon id="Path-7" fill="#BAB319" transform="translate(125.500000, 66.500000) scale(-1, -1) translate(-125.500000, -66.500000) " points="99 17.7333333 99 115.266667 152 133 152 0"></polygon>
+                    <polyline id="Path-6" fill="#EEEA00" transform="translate(76.000000, 115.000000) scale(-1, 1) rotate(180.000000) translate(-76.000000, -115.000000) " points="0 64 152 114.479592 152 166 0 116.040816"></polyline>
+                    <circle id="Oval" fill="#191970" transform="translate(152.500000, 139.500000) rotate(180.000000) translate(-152.500000, -139.500000) " cx="152.5" cy="139.5" r="16.5"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
